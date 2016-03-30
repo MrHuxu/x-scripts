@@ -13,6 +13,6 @@ Check whether the three logic expressions blow equal eatch other.
 2. ```e && (a || d || !c) && (b || d || !c) && (c || d || !c)```
 3. ```e && (a || d || !c) && (b || d || !c)```
 
-### aha-algorithms
+## aha-algorithms
 
 Some exercises of the book <Aha Algorithms!>
